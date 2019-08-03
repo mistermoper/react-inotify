@@ -1,5 +1,5 @@
 {
-    "name": "mkraemer/react-inotify",
+    "name": "mistermoper/react-inotify",
     "description": "Inotify bindings for ReactPHP",
     "keywords": ["inotify", "react"],
     "license": "MIT",
